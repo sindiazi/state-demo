@@ -1,0 +1,10 @@
+D:\Documents\Code\state-demo\src\main\java\com\arcus\state\demo\implementations\RewindState.java
+D:\Documents\Code\state-demo\src\main\java\com\arcus\state\demo\StateDemoMain.java
+D:\Documents\Code\state-demo\src\main\java\com\arcus\state\demo\implementations\InsertMediaState.java
+D:\Documents\Code\state-demo\src\main\java\com\arcus\state\demo\implementations\AbstractPlayerState.java
+D:\Documents\Code\state-demo\src\main\java\com\arcus\state\demo\implementations\EjectState.java
+D:\Documents\Code\state-demo\src\main\java\com\arcus\state\demo\domain\Player.java
+D:\Documents\Code\state-demo\src\main\java\com\arcus\state\demo\implementations\PlayState.java
+D:\Documents\Code\state-demo\src\main\java\com\arcus\state\demo\implementations\SkipState.java
+D:\Documents\Code\state-demo\src\main\java\com\arcus\state\demo\implementations\StopState.java
+D:\Documents\Code\state-demo\src\main\java\com\arcus\state\demo\interfaces\PlayerState.java
